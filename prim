@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker exec lmdb_primary_1 pdnsutil $@
